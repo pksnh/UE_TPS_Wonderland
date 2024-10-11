@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\부엉이\\TPS\\Source\\TPS\\TPS.Build.cs",
+		"D:\\Unreal\\부엉이\\TPS\\Source\\TPS.Target.cs",
+		"D:\\Unreal\\부엉이\\TPS\\Source\\TPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
